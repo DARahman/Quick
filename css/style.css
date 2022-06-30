@@ -33,6 +33,7 @@ header{
 .menu {
 	float: right;
 	width: 50%;
+	margin: 15px;
 }
 
 .menu ul{
